@@ -1,9 +1,139 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="J7RzHaULIz37gPT103FD">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="329" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="390" width="134" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDDQDhyZkCKzyNcoUSDa-4" target="bDDQDhyZkCKzyNcoUSDa-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDDQDhyZkCKzyNcoUSDa-6" target="bDDQDhyZkCKzyNcoUSDa-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-10" value="" style="endArrow=block;html=1;rounded=0;endFill=1;startSize=21;endSize=23;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="bDDQDhyZkCKzyNcoUSDa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bDDQDhyZkCKzyNcoUSDa-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Open Aperture Lens&lt;/h1&gt;&lt;p&gt;This is were the magic starts!!&amp;nbsp; Imagine a lens that, when recording, is ALWAYs open. NO FRAMES CAPTURED!&amp;nbsp; Or one long &quot;stream of reality&quot;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="233" y="336" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="264" y="336" width="20" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-23" value="" style="endArrow=block;html=1;rounded=0;endFill=1;startSize=21;endSize=23;strokeWidth=4;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bDDQDhyZkCKzyNcoUSDa-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="260" as="sourcePoint" />
+            <mxPoint x="199" y="563" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-24" value="" style="endArrow=block;html=1;rounded=0;endFill=1;startSize=21;endSize=23;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="270" as="sourcePoint" />
+            <mxPoint x="233" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-25" value="Inferred" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-37" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="273" y="440" width="57" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-26" value="LiDAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="260" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="267.5" width="36" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="306" y="268.5" width="24" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="267.5" width="36" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-35" value="" style="endArrow=block;html=1;rounded=0;endFill=1;startSize=21;endSize=23;strokeWidth=4;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bDDQDhyZkCKzyNcoUSDa-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bDDQDhyZkCKzyNcoUSDa-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="140" />
+              <mxPoint x="540" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Normal Video Camera&lt;/h1&gt;&lt;p&gt;This camera records in sync with the Open Aperture Lens&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-38" value="" style="endArrow=block;html=1;rounded=0;endFill=1;startSize=21;endSize=23;strokeWidth=4;" edge="1" parent="1" target="bDDQDhyZkCKzyNcoUSDa-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="380" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bDDQDhyZkCKzyNcoUSDa-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Digital Sensor&lt;/h1&gt;&lt;p&gt;The second stage of the magic.&amp;nbsp; This sensor needs to be able to take in a continuous stream of video information&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;perimeterSpacing=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-44" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-46" value="AI to stitch the FRAMELESS VIDEO STREAM (BLOB) to the normal synced video stream" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="125" width="160" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-47" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Frameless Video Camera&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-40" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-12" value="" style="group;strokeWidth=0;glass=0;dashed=1;dashPattern=1 4;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="408" width="186" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bDDQDhyZkCKzyNcoUSDa-12">
+          <mxGeometry x="39" width="121" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bDDQDhyZkCKzyNcoUSDa-12">
+          <mxGeometry y="2" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bDDQDhyZkCKzyNcoUSDa-12">
+          <mxGeometry x="106" y="2.5" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bDDQDhyZkCKzyNcoUSDa-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="bDDQDhyZkCKzyNcoUSDa-12">
+          <mxGeometry x="96" y="1" width="50" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
