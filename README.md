@@ -47,7 +47,7 @@ Frameless "true to life" video make from muliple cameras (video, still, FRAMELES
 
 ### Potential Applications:
 
-- **Olimpycs**: Dertermining winners of photo-finish races/events
+- **Olympics**: Dertermining winners of photo-finish races/events
 - **Filmmaking**: Creating dynamic and immersive shots without the limitations of traditional framing.
 - **Virtual Reality**: Capturing 360-degree video with greater flexibility and less stitching.
 - **Surveillance**: Providing a wider field of view and the ability to retroactively focus on specific details.
